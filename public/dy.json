@@ -1,4 +1,4 @@
-[
+输入：[
     {
         "id": "feifan",
         "name": "非凡资源",
@@ -32,8 +32,8 @@
         "priority": 4
     },
     {
-        "id": "baofeng",
-        "name": "暴风资源",
+        "id"："包峰"，
+        "名称": "暴风资源",
         "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
@@ -62,7 +62,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 8
-    },
+{
     {
         "id": "modu",
         "name": "魔都资源",
@@ -87,8 +87,8 @@
         "enabled": true,
         "priority": 11
     },
-    {
-        "id": "ruyi",
+
+"优先级""id": ："ruyi",
         "name": "如意资源",
         "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
         "group": "normal",
